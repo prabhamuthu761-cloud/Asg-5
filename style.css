@@ -1,0 +1,27 @@
+.navbar-header{
+    color:rgba(20, 119, 20, 0.712);
+    font-weight: bolder;
+    font-size: 40px;
+    padding-left: 100px;
+}
+.navbar .navbar-nav .nav-item{
+    color: green;
+    font-size: 20px;
+}
+.carousal-inner .img{
+    height: 500px;
+}
+.margin{
+    margin-top:150px;
+}
+.h2{
+    padding-top: 200px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.btn1{
+    border-radius: 40px;
+    padding: 15px 40px;
+    font-size: 20px;
+    margin-top: 20px;
+}
